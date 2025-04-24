@@ -1,8 +1,7 @@
 function App() {
   return (
-    <div style={{padding: '50px', backgroundColor: '#111', color: '#fff'}}>
-      <h1>EncryptedTalk Demo</h1>
-      <p>Hoş geldin Enes 👋</p>
+    <div style={{ padding: '50px', color: 'white', backgroundColor: '#1a1a1a' }}>
+      <h1>EncryptedTalk Frontend</h1>
     </div>
   );
 }
